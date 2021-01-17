@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Flashlight</string>
+    <string name="google_api_key">AIzaSyBqIl9EWEAHgS5SSp9Ze4fg_vGBPgmJK7k</string>
+    <string name="flashing_message">Flashing message</string>
+</resources>
